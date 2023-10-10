@@ -5,6 +5,7 @@ Heru
 - [ ] Membuat program scraping data komoditas pertanian harga jual dan lokasi komoditas pertanian
 - [ ] Membuat program scraping data komoditas pertanian harga perawatannya
 - [ ] Implementasi pemodelan streamlit
+
 Alif
 - [ ] memetakan segmentasi lahan yang bisa ditanami
 - [ ] memetakan grid lahan
